@@ -90,5 +90,5 @@ ginynu
 邮箱：
 Zejin666@qq.com
 Github地址：
-http://github.com/tongling/clinicaltrial
+https://github.com/ginynu/ssdata
 
